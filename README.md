@@ -52,7 +52,7 @@ El dataset contiene información histórica diaria de las acciones de NVIDIA obt
 
 ## Tecnologías Utilizadas
 
-* Python 3
+* Python
 * NumPy
 * Pandas
 * Scikit-learn
